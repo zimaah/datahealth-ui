@@ -1,0 +1,28 @@
+.form__button-container {
+    display: flex;
+  }
+  
+  .form__not-supported {
+    color: red;
+  }
+  
+  .form__container-input {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 30px;
+  }
+  
+  .form__help-message {
+    font-size: 12px;
+    color: lightgray;
+    margin: 1px 6px 6px 6px;
+    font-weight: 300;
+  }
+  
+  .form__container-multiple-inputs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 6px;
+  }
